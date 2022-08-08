@@ -1,0 +1,11 @@
+Time,root.test.test.cli.ali.txt(TEXT),root.test.test.cli.ali.boolan(BOOLEAN),root.test.test.cli.ali.in32(INT32),root.test.test.cli.ali.in64(INT64),root.test.test.cli.ali.floa(FLOAT),root.test.test.cli.ali.doubl(DOUBLE)
+1651036025230,,,1,,,
+1651036030034,"",,2,,,
+1651036035230,null,,3,,,
+1651036040034,"null",,4,,,
+1651036045230,NULL,,5,,,
+1651036047955,"NULL",,6,,,
+1651036049004,".;?<>%/#@!~`^*()_-+={}[]|\:",true,32,64,6.6,8.88
+1651036050034,.;?<>%/#@!~`^*()_-+={}[]|\:,false,32,64,6.6,8.88
+1651036054540,"a\,\"b","false",32,64,6.6,8.88
+1651037034340,"≤‚s ‘ss÷–sssŒƒssss¬“sssss¬Î",false,32,64,6.6,8.88
